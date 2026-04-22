@@ -1,0 +1,9 @@
+yfinance
+pandas
+forex-python
+openai
+pillow
+matplotlib
+groq
+google-genai
+pyyaml
