@@ -41,10 +41,10 @@ def get_weekly_data(ticker):
 # =========================
 indian_indices = {
     "Nifty 50": "^NSEI",
-    "Nifty Bank": "^NSEBANK",
-    "Nifty IT": "^CNXIT",
-    "Nifty Auto": "^CNXAUTO",
-    "Nifty FMCG": "^CNXFMCG"
+    "Nifty Next 50": "^NSMIDCP",
+    "Nifty Midcap 150": "NIFTYMIDCAP150.NS", ## "MID150BEES.NS",  # ETF that tracks the index
+    "Nifty Smallcap 250": "NIFTYSMLCAP250.NS", ## "SMALLCAP.NS",  # ETF that tracks the index
+    "Nifty 500": "^CRSLDX"  # Direct index symbol for Nifty 500
 }
 
 global_indices = {

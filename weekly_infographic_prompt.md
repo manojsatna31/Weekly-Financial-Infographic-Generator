@@ -18,86 +18,80 @@ Paste JSON below:
 
 ```json
 {
-  "week_range": "13 Apr – 17 Apr 2026",
+  "week_range": "20 Apr – 24 Apr 2026",
   "indian_indices": [
     {
       "name": "Nifty 50",
-      "value": 24196.75,
-      "change_percent": 1.49,
-      "pe_ratio": 18.0
+      "value": 23897.95,
+      "change_percent": -1.92,
+      "pe_ratio": 26.0
     },
     {
-      "name": "Nifty Bank",
-      "value": 56086.4,
-      "change_percent": 0.87,
-      "pe_ratio": 30.0
+      "name": "Nifty Next 50",
+      "value": 69883.95,
+      "change_percent": -0.65,
+      "pe_ratio": 27.0
     },
     {
-      "name": "Nifty IT",
-      "value": 31817.5,
-      "change_percent": 3.74,
-      "pe_ratio": 29.0
+      "name": "Nifty Midcap 150",
+      "value": 21875.95,
+      "change_percent": -0.68,
+      "pe_ratio": 25.0
     },
     {
-      "name": "Nifty Auto",
-      "value": 26382.75,
-      "change_percent": 1.14,
-      "pe_ratio": 22.0
-    },
-    {
-      "name": "Nifty FMCG",
-      "value": 48377.9,
-      "change_percent": 1.7,
-      "pe_ratio": 28.0
+      "name": "Nifty 500",
+      "value": 22570.05,
+      "change_percent": -1.29,
+      "pe_ratio": 15.0
     }
   ],
   "global_indices": [
     {
       "name": "S&P 500",
-      "value": 7041.28,
-      "change_percent": 2.25
+      "value": 7165.08,
+      "change_percent": 1.43
     },
     {
       "name": "Dow Jones",
-      "value": 48578.72,
-      "change_percent": 0.75
+      "value": 49230.71,
+      "change_percent": 0.17
     },
     {
       "name": "Nasdaq",
-      "value": 24102.7,
-      "change_percent": 3.96
+      "value": 24836.6,
+      "change_percent": 2.38
     },
     {
       "name": "Nikkei 225",
-      "value": 59518.34,
-      "change_percent": 5.34
+      "value": 59716.18,
+      "change_percent": 1.52
     },
     {
       "name": "Hang Seng",
-      "value": 26394.26,
-      "change_percent": 2.86
+      "value": 25978.07,
+      "change_percent": -1.45
     }
   ],
   "commodities": [
     {
       "name": "Gold",
-      "value": 4857.6,
-      "change_percent": 2.43
+      "value": 4722.3,
+      "change_percent": 0.51
     },
     {
       "name": "Silver",
-      "value": 81.74,
-      "change_percent": 8.23
+      "value": 76.38,
+      "change_percent": -0.04
     },
     {
       "name": "Crude Oil",
-      "value": 83.85,
-      "change_percent": -15.37
+      "value": 94.4,
+      "change_percent": 2.46
     },
     {
       "name": "USD/INR",
-      "value": 93.05,
-      "change_percent": -1.55
+      "value": 94.11,
+      "change_percent": 1.63
     }
   ],
   "top_news_headlines": [
