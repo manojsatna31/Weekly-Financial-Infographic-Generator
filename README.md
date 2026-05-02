@@ -1,4 +1,10 @@
+
+![Weekly-Financial-Infographic-Generator](images/Weekly-Financial-Infographic-Generator.png)
+
+---
+
 # 📊 Weekly Financial Infographic Generator
+
 
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -36,6 +42,9 @@ This project collects **real‑world financial data** (Indian indices, global in
 - **Manual override**  
   - You can still edit the JSON block manually before generating the image (e.g., to add your own headlines)
 
+---
+
+![Weekly-Financial-Infographic-Generator-GIF](images/Weekly-Financial-Infographic-Generator-GIF.gif)
 ---
 
 ## 🧱 Architecture
