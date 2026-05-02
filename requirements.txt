@@ -7,3 +7,4 @@ matplotlib
 groq
 google-genai
 pyyaml
+google-generativeai

@@ -15,7 +15,93 @@ Only replace data.
 # 🔴 INPUT DATA
 
 ```json
-
+{
+  "week_range": "27 Apr \u2013 01 May 2026",
+  "indian_indices": [
+    {
+      "name": "Nifty 50",
+      "value": 23997.55,
+      "change_percent": -0.39,
+      "pe_ratio": 27
+    },
+    {
+      "name": "Nifty Next 50",
+      "value": 69643.9,
+      "change_percent": -1.63,
+      "pe_ratio": 25
+    },
+    {
+      "name": "Nifty Midcap 150",
+      "value": 22000.05,
+      "change_percent": -0.89,
+      "pe_ratio": 28
+    },
+    {
+      "name": "Nifty 500",
+      "value": 22683.55,
+      "change_percent": -0.6,
+      "pe_ratio": 34
+    }
+  ],
+  "global_indices": [
+    {
+      "name": "S&P 500",
+      "value": 7209.01,
+      "change_percent": 0.49
+    },
+    {
+      "name": "Dow Jones",
+      "value": 49652.14,
+      "change_percent": 0.99
+    },
+    {
+      "name": "Nasdaq",
+      "value": 24892.31,
+      "change_percent": 0.02
+    },
+    {
+      "name": "Nikkei 225",
+      "value": 59284.92,
+      "change_percent": -2.07
+    },
+    {
+      "name": "Hang Seng",
+      "value": 25776.53,
+      "change_percent": -0.58
+    }
+  ],
+  "commodities": [
+    {
+      "name": "Gold",
+      "value": 4625.6,
+      "change_percent": -1.07
+    },
+    {
+      "name": "Silver",
+      "value": 75.84,
+      "change_percent": 1.12
+    },
+    {
+      "name": "Crude Oil",
+      "value": 102.5,
+      "change_percent": 6.36
+    },
+    {
+      "name": "USD/INR",
+      "value": 94.76,
+      "change_percent": 0.54
+    }
+  ],
+  "top_news_headlines": [
+    "Nifty 50 hits record high on strong corporate earnings.",
+    "RBI maintains interest rates to balance growth.",
+    "Tech stocks surge as AI integration drives profits."
+  ],
+  "kapital_gains_views": [
+    "Strong corporate earnings signal a bullish trend for mid-cap stocks.",
+    "Focus on long-term growth in the renewable energy sector."
+  ]
+}
 ```
 
 ---
