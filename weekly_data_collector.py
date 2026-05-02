@@ -244,10 +244,11 @@ def main():
         logger.error(f"Failed to update infographic prompt: {e}")
         return
 
-    logger.info("✅ PROCESS COMPLETE: Prompt updated with fresh data")
+    logger.info("✅ PROCESS COMPLETE: Custom Image Prompt is ready to copy and past")
+    logger.info("Copy & Past the prompt to any AI Tools to generate image")
     # Optional: print a preview of the output
-    print("\n--- Final data injected ---")
-    print(json.dumps(output, indent=2))
+    # print("\n--- Final data injected ---")
+    # print(json.dumps(output, indent=2))
 
 if __name__ == "__main__":
     main()
